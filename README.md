@@ -24,7 +24,7 @@ clasificador_paises/
 
 ## Cómo ejecutarlo
 
-Requiere Python 3.10 o superior.
+Requiere Python 3.10 o máximo 3.12.
 
 ```bash
 # 1. (Opcional) crear un entorno virtual
